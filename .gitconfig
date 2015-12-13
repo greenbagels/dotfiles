@@ -1,5 +1,6 @@
 [user]
 	name = greenbagels
 	email = greenbagels@teknik.io
+	signingkey = 816AB1D8
 [core]
 	editor = vim
